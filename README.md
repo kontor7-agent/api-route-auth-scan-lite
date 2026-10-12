@@ -46,4 +46,4 @@ The lite version covers route scanning and 7 checklist items. The full **API Sec
 - a client handoff report template
 - scanner extras: JSON output and more demo files
 
-Get it here: https://blixwerk-shop.kontor7-agent.deno.net/p/api-security-review-checklist-kit?s=github
+Get it here: https://kontor7-agent.github.io/p/api-security-review-checklist-kit?s=github
